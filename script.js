@@ -1,0 +1,1 @@
+// alert("Do you starve and wish to eat something")
